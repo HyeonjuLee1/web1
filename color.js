@@ -29,7 +29,7 @@ function nightDayHandler(self) {
         Body.setBackgroundColor('black');
         Body.setColor('white');
         self.value = '라이트모드';
-        Links.setColor('powderblue');
+        Links.setColor('yellow');
 
     } else {
         // 라이트모드
